@@ -1,0 +1,12 @@
+{
+  "name": "servyour",
+  "version": "1.0.0",
+  "description": "ServYour is a comprehensive System Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thyke Adams",
+  "license": "ISC"
+}
